@@ -25,7 +25,8 @@ AWS Lambda,
 Amazon Simple Storage Service.
 
 My Architecture:
-[Serverless Chatbot Using Private Data.pdf](https://github.com/user-attachments/files/21808302/Serverless.Chatbot.Using.Private.Data.pdf)
+<img width="1440" height="870" alt="ServerlessChatbotUsingPrivateData" src="https://github.com/user-attachments/assets/bf80c3a8-783a-4bee-a65e-2e1d852b00cd" />
+
 
 Proof of completion:
 <img width="1049" height="811" alt="image" src="https://github.com/user-attachments/assets/097b3f42-1d34-45be-8c2d-2a8f175980f2" />
